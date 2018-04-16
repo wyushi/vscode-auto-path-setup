@@ -1,0 +1,7 @@
+{
+  "name": "js-setup",
+  "version": "0.1",
+  "main": "index.js",
+  "author": "Yushi Wang <jasper.ys.wang@gmail.com>",
+  "license": "MIT"
+}
